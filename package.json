@@ -1,0 +1,9 @@
+{
+  "name": "mobile-flutter-offline-first-app",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": { "dev": "vite", "build": "tsc && vite build" },
+  "dependencies": { "react": "^18.2.0", "react-dom": "^18.2.0", "lucide-react": "latest", "recharts": "latest", "framer-motion": "latest" },
+  "devDependencies": { "@vitejs/plugin-react": "latest", "typescript": "latest", "vite": "latest" }
+}
